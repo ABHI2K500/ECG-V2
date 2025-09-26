@@ -1,0 +1,5 @@
+{
+  "name": "ECG Waveform Simulator",
+  "description": "An interactive tool that generates simulated ECG waveforms for various heart conditions. This tool is for educational purposes only.",
+  "requestFramePermissions": []
+}
